@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShibanshL;
+- 👋 Hi, I’m @ShibanshL ;
 - 👀 I’m interested in Webdev, Front_end.stuff;
 - 🌱 I’m have learnt html, css, js, java, reactjs && currently learning nodejs;
 - 💞️ I’m looking to collaborate on any == "opportunity" ; 
