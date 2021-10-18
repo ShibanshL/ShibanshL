@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on any == " opportunity " ; 
 - 📫 const Reachme === " shibansh.w@gmail.com " ? console.log(" Thanks for contacting me ") : null ;
 
-![](https://github.com/ShibanshL/My_stats/blob/master/generated/overview.svg)
+![](https://github.com/ShibanshL/My_stats/blob/master/generated/overview.svg) ![](https://github.com/ShibanshL/My_stats/blob/master/generated/languages.svg)
 
-![](https://github.com/ShibanshL/My_stats/blob/master/generated/languages.svg)
+
 
 
 
