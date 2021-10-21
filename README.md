@@ -13,7 +13,7 @@ Languages and Tools Used
 [<img align="left" alt="CSS" width="30px" src="https://www.logolynx.com/images/logolynx/8f/8fb97dec724d750d2085173816712ffc.png">]
 [<img align="left" alt="Javascript" width="22px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript_logo.png">]
 [<img align="left" alt="React JS" width="24px" src="https://ugross.gallerycdn.vsassets.io/extensions/ugross/vscode-react-snippets/1.3.0/1519481679046/Microsoft.VisualStudio.Services.Icons.Default">]
-[<img align="left" alt="Java" width="40px" src="https://tinycode.hk/wp-content/uploads/2015/01/java-logo-png-300x300.png">]
+[<img align="left" alt="Java" width="26px" src="https://tinycode.hk/wp-content/uploads/2015/01/java-logo-png-300x300.png">]
 [<img align="left" alt="SQL" width="20px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png">]
 [<img align="left" alt="Adobe PhotoShop" width="28px" src="https://logodownload.org/wp-content/uploads/2019/10/photoshop-logo-0.png">]
 [<img align="left" alt="Adobe Illustrator" width="26px" src="https://images.vexels.com/media/users/3/162832/isolated/preview/b3a22210d5eef77d76bbaeca8dbcd1c6-adobe-ilustrador-ai-colorido---cone-by-vexels.png">]
