@@ -27,4 +27,5 @@ Languages and Tools Used
 
 
 
-![](https://github.com/ShibanshL/My_stats/blob/master/generated/overview.svg) ![](https://github.com/ShibanshL/My_stats/blob/master/generated/languages.svg)
+<!-- ![](https://github.com/ShibanshL/My_stats/blob/master/generated/overview.svg) ![](https://github.com/ShibanshL/My_stats/blob/master/generated/languages.svg)
+ -->
