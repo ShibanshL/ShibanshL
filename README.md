@@ -10,7 +10,7 @@ Languages and Tools Used
 <br>
 <br>
 <br>
-<img align="left" alt="Visual Studio Code" width="50px" src="https://hoing.io/storage/2020/10/vscode-logo-2.png">
+<img align="left" alt="Visual Studio Code" width="50px " src="https://hoing.io/storage/2020/10/vscode-logo-2.png">
 <img align="left" alt="HTML" width="50px" src="https://clipground.com/images/html-logo-png-3.png">
 <img align="left" alt="CSS" width="30px" src="https://www.logolynx.com/images/logolynx/8f/8fb97dec724d750d2085173816712ffc.png">
 <img align="left" alt="Javascript" width="22px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript_logo.png">
