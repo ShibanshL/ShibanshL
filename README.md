@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Shibansh+Sahoo;Trying+to+change+the+world;One+language+at+a+time)](https://git.io/typing-svg)
+
+
+
 . 👋 Hi, I’m @ShibanshL ;<br>
 . 👀 I’m interested in Webdev, Front_end stuff ;<br>
 . 🌱 I’m have learnt html, css, js, java, reactjs, wordpress, elementor && currently learning nodejs ;<br>
