@@ -35,5 +35,8 @@ Languages and Tools Used
 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShibanshL)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- ![](https://github.com/ShibanshL/My_stats/blob/master/generated/overview.svg) ![](https://github.com/ShibanshL/My_stats/blob/master/generated/languages.svg)
  -->
