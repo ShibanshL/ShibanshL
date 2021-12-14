@@ -6,7 +6,7 @@
 
 <div align="center"> <h1>Hi there, I'm <a href="https://hemant.codes">Shibansh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> </div> <p align='center'> <a href="https://www.linkedin.com/in/shibansh-sahoo-a436061a3/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp; 
 
-<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Shibansh+Sahoo;Trying+to+change+the+world;One+language+at+a+time)](https://git.io/typing-svg) 
+<!-- <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Shibansh+Sahoo;Trying+to+change+the+world;One+language+at+a+time)](https://git.io/typing-svg)  -->
  
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shibansh Sahoo | 💻 Frontend Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3> </div>
@@ -28,6 +28,7 @@ Languages and Tools Used
 <br>
 <br>
 <br>
+<div align="center">
 <img align="left" alt="Visual Studio Code" width="50px " src="https://hoing.io/storage/2020/10/vscode-logo-2.png">
 <img align="left" alt="HTML" width="50px" src="https://clipground.com/images/html-logo-png-3.png">
 <img align="left" alt="CSS" width="30px" src="https://www.logolynx.com/images/logolynx/8f/8fb97dec724d750d2085173816712ffc.png">
@@ -39,6 +40,7 @@ Languages and Tools Used
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://images.vexels.com/media/users/3/162832/isolated/preview/b3a22210d5eef77d76bbaeca8dbcd1c6-adobe-ilustrador-ai-colorido---cone-by-vexels.png">
 <img align="left" alt="Adobe XD" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/adobe-xd-logo.png">
 <img align="left" alt="Figma" width="26px" src="https://2.bp.blogspot.com/-KVFNcyNJpmc/XIe-Sqa674I/AAAAAAAAIuk/VRK5WWydfD4yjMq_AkU6B2h3WAROEvOMgCK4BGAYYCw/s1600/logo%2Bfigma%2Bicon.png" >
+ </div>
 
 <br><br>
 
