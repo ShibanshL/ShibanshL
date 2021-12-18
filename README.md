@@ -47,6 +47,10 @@ Languages and Tools Used
 
 
 <br><br>
+ 
+ ![snake gif](https://github.com/ShibanshL/ShibanshL/blob/output/github-contribution-grid-snake.gif)
+ 
+ <br><br>
 
 ![](https://github.com/ShibanshL/My-Stats/blob/master/generated/languages.svg)
 ![](https://github.com/ShibanshL/My-Stats/blob/master/generated/overview.svg)
@@ -61,4 +65,3 @@ Languages and Tools Used
  
  
  
- ![snake gif](https://github.com/ShibanshL/ShibanshL/blob/output/github-contribution-grid-snake.gif)
