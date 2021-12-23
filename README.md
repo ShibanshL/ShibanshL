@@ -17,7 +17,7 @@
 
 
 
-. 👋 Hi, I’m @ShibanshL ;<br>
+. 👋 Hi, I’m @ShibanshL ; <br>
 . 👀 I’m interested in Webdev, Front_end stuff ;<br>
 . 🌱 I’m have learnt html, css, js, java, reactjs, wordpress, elementor && currently learning nodejs ;<br>
 . 💞️ I’m looking to collaborate on any == " opportunity " ;<br>
