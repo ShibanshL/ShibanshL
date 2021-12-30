@@ -10,7 +10,7 @@
 <!-- <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Shibansh+Sahoo;Trying+to+change+the+world;One+language+at+a+time)](https://git.io/typing-svg)  -->
  
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shibansh Sahoo | 💻 Frontend Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3> </div>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shibansh Sahoo | 💻 Frontend Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>  </div>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
