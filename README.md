@@ -42,7 +42,7 @@ Languages and Tools Used
 <img align="center" alt="SQL" width="20px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png">
 <img align="center" alt="Adobe PhotoShop" width="28px" src="https://logodownload.org/wp-content/uploads/2019/10/photoshop-logo-0.png">
 <img align="center" alt="Adobe Illustrator" width="26px" src="https://images.vexels.com/media/users/3/162832/isolated/preview/b3a22210d5eef77d76bbaeca8dbcd1c6-adobe-ilustrador-ai-colorido---cone-by-vexels.png">
-<img align="center" alt="Adobe XD" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/adobe-xd-logo.png">
+<img align="center" alt="Adobe XD" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/adobe-xd-logo.png" >
 <img align="center" alt="Figma" width="26px" src="https://2.bp.blogspot.com/-KVFNcyNJpmc/XIe-Sqa674I/AAAAAAAAIuk/VRK5WWydfD4yjMq_AkU6B2h3WAROEvOMgCK4BGAYYCw/s1600/logo%2Bfigma%2Bicon.png" >
 
 
