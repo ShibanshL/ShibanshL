@@ -48,7 +48,7 @@ Languages and Tools Used
 
 <br><br>
  
- ![snake gif](https://github.com/ShibanshL/ShibanshL/blob/output/github-contribution-grid-snake.gif)
+<!--  ![snake gif](https://github.com/ShibanshL/ShibanshL/blob/output/github-contribution-grid-snake.gif) -->
  
  <br><br>
 
