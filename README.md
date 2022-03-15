@@ -1,5 +1,5 @@
 <!-- 
-<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Shibansh+Sahoo;Trying+to+change+the+world;One+language+at+a+time)](https://git.io/typing-svg)</div> -->
+<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Shibansh+Sahoo;Trying+to+change+the+world;  One+language+at+a+time)](https://git.io/typing-svg)</div> -->
 
 
 
