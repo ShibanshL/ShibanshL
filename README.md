@@ -36,7 +36,7 @@ Languages and Tools Used
 <img align="center" alt="Visual Studio Code" width="50px " src="https://hoing.io/storage/2020/10/vscode-logo-2.png">
 <img align="center" alt="HTML" width="50px" src="https://clipground.com/images/html-logo-png-3.png">
 <img align="center" alt="CSS" width="30px" src="https://www.logolynx.com/images/logolynx/8f/8fb97dec724d750d2085173816712ffc.png">
-<img align="center" alt="Javascript" width="22px" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-on-yellow-11.png">
+<img align="center" alt="Javascript" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-on-yellow-11.png">
 <img align="center" alt="React JS" width="24px" src="https://ugross.gallerycdn.vsassets.io/extensions/ugross/vscode-react-snippets/1.3.0/1519481679046/Microsoft.VisualStudio.Services.Icons.Default">
 <img align="center" alt="Java" width="26px" src="https://tinycode.hk/wp-content/uploads/2015/01/java-logo-png-300x300.png">
 <img align="center" alt="SQL" width="20px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png">
